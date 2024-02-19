@@ -6,6 +6,8 @@ Users can utilize timeX as a normal stopwatch while working or studying on their
 
 
 
+
+
 ## Features
 
 - **Multiple Timers**: Users can create and manage multiple countdown timers.
@@ -20,7 +22,7 @@ To run the application, ensure you have Java installed on your system. Compile a
 ```bash
 java main/classFiles/AdvancedStopwatch
 ```
--Can be improved by transfer learning (obviously 😉)
+-Can be improved by transfer learning 
 
 ## Usage
 
